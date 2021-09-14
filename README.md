@@ -20,3 +20,5 @@ Untuk memenuhi project mata kuliah pemrograman web serta untuk dikembangkan lagi
 
 ## Skema database
 
+<img width="438" alt="Screenshot_3" src="https://user-images.githubusercontent.com/66240799/133297658-83a9ca27-3333-4067-ba6e-0ef42f934ae5.png">
+
