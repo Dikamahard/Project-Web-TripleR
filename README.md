@@ -1,4 +1,4 @@
-# Proyek-Web-TripleR
+# Project-Web-TripleR
 Membuat website marketplace penyewaan kendaraan dengan multiple user sebagai penyedia kendaraan dan penyewa kendaraan
 
 ## Anggota
